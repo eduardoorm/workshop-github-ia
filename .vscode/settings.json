@@ -1,0 +1,8 @@
+{
+    "spellright.language": [
+        "es"
+    ],
+    "spellright.documentTypes": [],
+    // Disable Code Spell Checker for this workspace
+    "cSpell.enabled": false
+}
